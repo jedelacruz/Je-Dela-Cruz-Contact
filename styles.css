@@ -422,6 +422,10 @@
   .contact-box-2{
     height: 70%;
   }
+.contact-box-2 a{
+  text-decoration: none;
+  color: white;
+}
 
   @keyframes wiggle {
     0% {
